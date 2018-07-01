@@ -1,7 +1,7 @@
 <?php 
 
 get_header(); 
-
+/*
 if ( have_posts() ) : 
     while (have_posts()) : the_post() ?>
 
@@ -36,7 +36,11 @@ if ( have_posts() ) :
         echo '<p>No se encuentra el contenido</p>';
 
     endif;
+*/
 
+<div>
+<h1>sfjkbgkasfhadshk</h1>
+</div>
 get_footer();
 
 ?>
